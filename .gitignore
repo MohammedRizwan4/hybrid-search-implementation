@@ -8,3 +8,6 @@ logs/
 *.log
 .idea/
 .vscode/
+playbook/
+random_data/
+
